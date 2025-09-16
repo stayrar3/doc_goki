@@ -20,13 +20,12 @@ const sidebars = {
     'intro',
     'smart-wallet-wrapper',
     'owners-threshold',
-    // The following files will be added later:
-    // 'timelock',
-    // 'goki-sdk',
-    // 'smart-wallet-program',
-    // 'transaction-state-account',
-    // 'instruction-execution-cpi',
-    // 'program-derived-addresses-pdas',
+    'timelock',
+    'goki-sdk',
+    'smart-wallet-program',
+    'transaction-state-account',
+    'instruction-execution-cpi',
+    'program-derived-addresses-pdas',
   ],
 };
 
